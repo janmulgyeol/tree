@@ -2,11 +2,11 @@
 
 int main(void)
 {
-	int a; //입력값-1만큼 출력
-	int b; //공백 출력
-	int c; //*출력
-	int f=0; // 홀수 공백
-	int num; //입력값
+	int a; 
+	int b; 
+	int c; 
+	int f=0;
+	int num;
 	int j;
 	int p=1;
 	while (1)
